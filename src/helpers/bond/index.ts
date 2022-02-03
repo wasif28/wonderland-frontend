@@ -18,8 +18,8 @@ export const mim = new StableBond({
     reserveContractAbi: StableReserveContract,
     networkAddrs: {
         [Networks.AVAX]: {
-            bondAddress: "0x694738E0A438d90487b4a549b201142c1a97B556",
-            reserveAddress: "0x130966628846BFd36ff31a822705796e8cb8C18D",
+            bondAddress: "0x3a8758684A3B03cBAfE8aFb9625D659c6e1EFfD5",
+            reserveAddress: "0x2e70C4d6Fdd62fD73f01c1359a76b8AcDB68ff25",
         },
     },
     tokensInStrategy: "60500000000000000000000000",
@@ -34,8 +34,8 @@ export const wavax = new CustomBond({
     reserveContractAbi: StableReserveContract,
     networkAddrs: {
         [Networks.AVAX]: {
-            bondAddress: "0xE02B1AA2c4BE73093BE79d763fdFFC0E3cf67318",
-            reserveAddress: "0xb31f66aa3c1e785363f0875a1b74e27b85fd66c7",
+            bondAddress: "0xC059Ca00867fa5e064081A8BDaf49099E432e369",
+            reserveAddress: "0xc778417E063141139Fce010982780140Aa0cD5Ab",
         },
     },
     tokensInStrategy: "756916000000000000000000",
